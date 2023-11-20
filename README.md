@@ -11,3 +11,7 @@ Ajouter encore du texte
 Ajouter du texte
 
 ajout du texte
+
+Ajouter le texte pour copyright
+
+Ajouter du texte pour copyright
